@@ -1,2 +1,0 @@
-# ComponentReference
-Created with CodeSandbox
